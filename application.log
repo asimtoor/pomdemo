@@ -1,0 +1,18 @@
+2018-12-29 10:52:53,861  INFO [main] TestBase:44 - ************ Launching Chrome Browser **************
+2018-12-29 10:53:02,911  INFO [main] TestBase:70 - ************ Refreshing Browser **************
+2018-12-29 10:53:19,883  INFO [main] TestBase:44 - ************ Launching Chrome Browser **************
+2018-12-29 10:53:26,777  INFO [main] TestBase:70 - ************ Refreshing Browser **************
+2018-12-29 10:53:28,560  INFO [main] TestBase:44 - ************ Launching Chrome Browser **************
+2018-12-29 10:53:37,551  INFO [main] TestBase:70 - ************ Refreshing Browser **************
+2018-12-29 10:53:43,844  INFO [main] TestBase:44 - ************ Launching Chrome Browser **************
+2018-12-29 10:53:50,206  INFO [main] TestBase:70 - ************ Refreshing Browser **************
+2018-12-29 10:53:56,584 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-29 10:53:56,585 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-29 10:53:56,587 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-29 10:53:56,587 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-29 10:53:56,588 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Asim%20Toor/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-12-29 10:53:56,865 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-12-29 10:53:56,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-12-29 10:53:56,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-12-29 10:53:56,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-12-29 10:53:56,867 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Asim%20Toor/.m2/repository/com/relevantcodes/extentreports/2.40.2/extentreports-2.40.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
